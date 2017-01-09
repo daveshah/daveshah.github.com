@@ -302,7 +302,6 @@ pre {
   padding: 10px;
 }
 .authorKeyword {
-  text-transform: uppercase;
   font-size: 16px;
   letter-spacing: 2px;
   text-indent: 2px;
@@ -311,11 +310,9 @@ pre {
 .writtenBy {
   letter-spacing: 0;
   text-indent: 0;
-  text-transform: uppercase;
 }
 .archive-intro {
   font-size: 14px;
-  text-transform: uppercase;
   letter-spacing: 2px;
   text-indent: 2px;
 }
@@ -323,7 +320,6 @@ pre {
   text-align: center;
 }
 .hint {
-  text-transform: uppercase;
   font-size: 11px;
   letter-spacing: 2px;
   text-indent: 2px;
@@ -333,7 +329,6 @@ pre {
   padding: 10px;
 }
 .manual {
-  text-transform: uppercase;
   font-size: 16px;
   letter-spacing: 2px;
   text-indent: 2px;
@@ -344,7 +339,6 @@ pre {
 }
 .postDate {
   float: left;
-  text-transform: uppercase;
   font-family: "Source Sans Pro";
   font-size: 16px;
   font-weight: 300;
@@ -357,7 +351,6 @@ pre {
 .postTitle {
   font-weight: 400;
   text-align: center;
-  text-transform: uppercase;
   letter-spacing: 3px;
   text-indent: 3px;
 }
@@ -375,7 +368,6 @@ pre {
   font-size: 64px;
   font-weight: 100;
   font-family: 'PT Sans';
-  text-transform: capitalize;
   font-weight: 500;
   margin-top: 1em;
   &,
@@ -394,8 +386,8 @@ pre {
   padding-right: 2em;
 }
 .site-navigation {
+  text-align: center;
   color: #aaa;
-  text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 2px;
   text-indent: 6px;
@@ -404,7 +396,6 @@ pre {
   padding-top: 5em;
 }
 .page-title {
-  text-transform: uppercase;
   letter-spacing: 2px;
   text-indent: 2px;
   font-family: "PT Sans";
@@ -555,7 +546,6 @@ pre {
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
-  text-transform: uppercase;
   font-size: 16px;
 }
 .post-link {
